@@ -4,7 +4,7 @@ Pauta para evaluar el ejercicio.
 1. La página web se encuentra en github pages asociada al proyecto?
 
 	| Se asoció al proyecto | Se asoció al usuario | No se asoció a Github Pages|
-	|---|---|---|
+	|-N-|---|---|
  
 2. Que tan parecido luce el sitio subido al requerido.
 
